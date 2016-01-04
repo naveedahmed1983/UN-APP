@@ -18,7 +18,7 @@
         Naveed Ahmed
     </author>
 
-	<preference name="phonegap-version"       value="3.5.0" />	
+	
 	<icon src="Appicon.png" />
 	
 	<gap:splash src="Splash.png" />
