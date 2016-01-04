@@ -21,6 +21,6 @@
 	
 	<icon src="Appicon.png" />
 	
-	<gap:splash src="Splash.png" />
+	
 
 </widget>
